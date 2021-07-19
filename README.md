@@ -6,5 +6,6 @@
 - 📫 How to reach me:
 
 [![Linkedin: bhargav-saikia](https://img.shields.io/badge/-bhargav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhargav-saikia1999/)](https://www.linkedin.com/in/bhargav-saikia1999/)
+[![mail@bhargav](https://img.shields.io/badge/mail%40-bhargav-blue)](mailto:bhargav.saikia@iitg.ac.in)
 
 
